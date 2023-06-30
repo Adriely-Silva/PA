@@ -16,6 +16,7 @@ Alguns conceitos como “classe” e “objeto” tiveram influência na constru
 
 ### Funcionalidades
 Em termos de funcionalidades, o programa permite ao utilizador:
+
 - Fazer pedidos, visualizar a comida que mais teve lucro
 - Criar um cardápio, adicionar as comidas nele. Além de poder editar, visualizar e remover as comidas.
 - Poder acrescentar mantimentos no estoque, editar, visualizar e remover. 
@@ -23,4 +24,15 @@ Em termos de funcionalidades, o programa permite ao utilizador:
 - Se há saldo suficiente para as compras dos mantimentos.
 - Visualizar o relatório, com seus lucros e prejuízos.
 - Poder sacar e depositar dinheiro.
+
+### Estrutura do programa
+O desenvolvimento do programa teve como base uma divisão estrutural, separamos Estoque,Cardápio, Pedido, Saldo e Relatório por “classes”. Cada classe teve seu código com as suas funcionalidades, uma classe chamada Main chamaria todas essas classes, seria o programa principal que rodaria o sistema. A seguinte divisão:
+
+- Estoque : Cadastrar mantimento, visualizar mantimento, editar mantimento e deletar mantimento. 
+- Cardápio : Adicionar comida, visualizar comida, editar comida e remover comida.
+- Pedido : Cadastrar pedido, visualizar pedido, editar pedido e deletar pedido.
+- Saldo : Visualizar saldo, sacar e depositar.
+- Relatório : Visualizar o relatório que indica os lucros ou prejuízos. 
+- Main : Chama todas as classes anteriores.
+
 
