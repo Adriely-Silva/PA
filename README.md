@@ -35,6 +35,7 @@ O desenvolvimento do programa teve como base uma divisão estrutural, separamos 
 - Relatório : Visualizar o relatório que indica os lucros ou prejuízos. 
 - Main : Chama todas as classes anteriores.
 
+
 ## Ambiente de desenvolvimento
 IDE: VsCode
 Linguagem de programação: C padrão
