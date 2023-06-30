@@ -8,13 +8,13 @@ Atividade proposta:
 
 As mudanças no sistema devem  ficar salvas mesmo após fechar e abrir o sistema, ou seja, precisam ser armazenadas em arquivos.
 
-##Descrição
+## Descrição
 Apresentar por partes a idealização da criação do sistema desenvolvido.
 
-###Conceitos
+### Conceitos
 Alguns conceitos como “classe” e “objeto” tiveram influência na construção do sistema.
 
-###Funcionalidades
+### Funcionalidades
 Em termos de funcionalidades, o programa permite ao utilizador:
 - Fazer pedidos, visualizar a comida que mais teve lucro
 - Criar um cardápio, adicionar as comidas nele. Além de poder editar, visualizar e remover as comidas.
